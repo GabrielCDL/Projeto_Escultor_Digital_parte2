@@ -1,0 +1,17 @@
+dim 70 70 70
+putsphere 8 8 8 8 0 0 55 1
+putsphere 8 23 8 8 0 0 0 1
+putsphere 8 38 8 8 55 0 0 1
+putsphere 8 15 22 8 0 28 0 1
+putsphere 8 30 22 8 55 55 0 1
+cutbox 0 6 0 46 0 32
+cutbox 10 16 0 46 0 32
+cutsphere 9 8 8 6
+cutsphere 8 23 8 6
+cutsphere 8 38 8 6
+cutsphere 8 15 22 6
+cutsphere 8 30 22 6
+
+
+
+
